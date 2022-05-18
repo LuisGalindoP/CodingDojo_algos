@@ -6,4 +6,4 @@ const isPrime = (num) => {
     return true;
 }
 
-console.log(isPrime(99847));
+console.log(isPrime(13));
